@@ -6,9 +6,13 @@ This repository contains all of my old dotfiles configuration.
 List of files:
 
 ```
+ awesome        ➔ dynamic tiling window manager for X11 written in the C and Lua
  bin            ➔ various useful scripts (offlineimap, etc)
  offlineimap    ➔ capable of synchronizing mail on IMAP server with local Maildir folder
 ```
+
+To know the current configuration of packages I use for my dotfiles, you can
+access them [here](https://github.com/rememberYou/dotfiles).
 
 --------------------
 
