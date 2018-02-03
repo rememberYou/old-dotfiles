@@ -20,7 +20,7 @@ run emacs --daemon
 
 # Launches applets.
 run nm-applet
-run redshift-gtk -l 50.4814:4.5488
+run redshift-gtk -l "$(./where-ami)"
 run caffeine
 
 if xrandr | grep -q 'HDMI2 connected' ; then
