@@ -1,0 +1,4 @@
+! To update X apps configuration : xrdb -merge ~/.Xresources
+
+! Urxvt settings
+#include ".Xresources.d/urxvt"

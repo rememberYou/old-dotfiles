@@ -1,0 +1,13 @@
+URxvt*font: xft:DejaVu Sans Mono-10
+URxvt*foreground: #f2f2f2
+URxvt*locale: true
+URxvt.geometry: 80x24
+URxvt*saveLines: 1024
+URxvt*scrollBar: false
+URxvt*depth: 32
+URxvt*background: rgba:0000/0000/0200/c800
+URxvt*scrollTtyKeypress: true
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*selectToClipboard: true
+URxvt*toolBar: false
