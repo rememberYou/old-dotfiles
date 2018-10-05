@@ -8,8 +8,8 @@ List of files:
 ```
  awesome        ➔ dynamic tiling window manager for X11 written in the C and Lua
  bin            ➔ various useful scripts (offlineimap, etc)
- offlineimap    ➔ capable of synchronizing mail on IMAP server with local
- Maildir folder
+ offlineimap    ➔ capable of synchronizing mail on IMAP server with local Maildir folder
+ termite        ➔ keyboard-centric VTE-based terminal
  x11            ➔ X11 settings
 ```
 
