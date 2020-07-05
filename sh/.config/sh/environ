@@ -1,0 +1,3 @@
+# Useful to inform Polybar of GitHub's token.
+GITHUB_ACCESS_TOKEN="$(gpg -qd "$HOME/.gnupg/shared/github-token.gpg")"
+export GITHUB_ACCESS_TOKEN
