@@ -6,13 +6,18 @@ This repository contains all of my old dotfiles configuration.
 List of files:
 
 ```
- awesome        ➔ dynamic tiling window manager for X11 written in the C and Lua
- bin            ➔ various useful scripts (e.g., offlineimap)
- offlineimap    ➔ capable of synchronizing mail on IMAP server with local Maildir folder
- ranger         ➔ console file manager with VI key bindings
- rofi           ➔ window switcher, application launcher, ssh dialog and dmenu replacement
- termite        ➔ keyboard-centric VTE-based terminal
- x11            ➔ X11 settings
+ awesome         ➔ dynamic tiling window manager for X11 written in the C and Lua
+ bin             ➔ various useful scripts (e.g. offlineimap)
+ dunst           ➔ lightweight replacement for the notification-daemons
+ i3              ➔ dynamic tiling window manager for X11 inspired by wmii
+ offlineimap     ➔ capable of synchronizing mail on IMAP server with local Maildir folder
+ picom           ➔ compositor for X11
+ polybar         ➔ status bars
+ ranger          ➔ console file manager with VI key bindings
+ rofi            ➔ window switcher, application launcher, ssh dialog and dmenu replacement
+ termite         ➔ keyboard-centric VTE-based terminal
+ sh              ➔ common to all shells (e.g. aliases, environment variables)
+ x11             ➔ X11 settings
 ```
 
 To know the current configuration of packages I use for my dotfiles, you can
