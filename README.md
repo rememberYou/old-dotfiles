@@ -17,6 +17,7 @@ List of files:
  rofi            ➔ window switcher, application launcher, ssh dialog and dmenu replacement
  termite         ➔ keyboard-centric VTE-based terminal
  sh              ➔ common to all shells (e.g. aliases, environment variables)
+ wofi            ➔ window switcher, application launcher, ssh dialog for wlroots compositors
  x11             ➔ X11 settings
 ```
 
